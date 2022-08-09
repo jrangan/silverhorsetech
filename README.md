@@ -12,4 +12,5 @@ To run the tests follow the below steps
 Set baseUrl in cypress.config.js so that in future if we want to test in any other environment we can just change in the config
 
 To run all the tests
+
     npm cypress run
